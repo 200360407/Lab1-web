@@ -1,18 +1,20 @@
-"scripts": {
-"start": "node connect_server.js"
-}
 {
-  "name": "atom",
+  "name": "lab_01",
   "version": "1.0.0",
   "description": "",
-  "main": "basic_server.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/200360407/Lab1-web.git"
+  },
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "connect": "^3.6.6"
-  }
+  "bugs": {
+    "url": "https://github.com/200360407/Lab1-web/issues"
+  },
+  "homepage": "https://github.com/200360407/Lab1-web#readme"
 }
